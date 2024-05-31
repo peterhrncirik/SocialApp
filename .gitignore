@@ -485,3 +485,6 @@ $RECYCLE.BIN/
 
 # Other
 API/appsettings.json
+API/socialapp.db-shm
+API/socialapp.db-wal
+client/.npmrc
